@@ -1,0 +1,25 @@
+
+
+A simple **Rock-Paper-Scissors** game built in Java where you play against the computer.
+
+## 🚀 How to Run
+1. Open in Eclipse or any Java IDE.
+2. Create a file `RockPaperScissors.java` and paste the code.
+3. Run the program.
+4. Enter:
+   - `0` → Rock  
+   - `1` → Paper  
+   - `2` → Scissors
+
+## 📜 Features
+- Random computer choice
+- Simple game rules
+- Input validation
+
+## 🛠 Tech Used
+- Java
+- Scanner (user input)
+- Random (computer move)
+
+## 📹 Demo
+Post your gameplay video on LinkedIn and tag **#Internpe**!
